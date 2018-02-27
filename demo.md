@@ -1,2 +1,2 @@
 Hello World.
-What a beautiful day.
+What a beuatiful day.
